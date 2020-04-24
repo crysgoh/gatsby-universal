@@ -3,7 +3,7 @@
   "content": "intro.md",
   "gallery": [{
     "title": "VR Film 1",
-    "copy": "Theme 1.",
+    "copy": "Theme 1",
     "image": "../images/gallery/react-context.jpg"
   },
   {
