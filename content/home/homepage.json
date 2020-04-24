@@ -2,18 +2,18 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "React Context",
-    "copy": "For global styles.",
+    "title": "VR Film 1",
+    "copy": "Theme 1.",
     "image": "../images/gallery/react-context.jpg"
   },
   {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
+    "title": "VR Film 2",
+    "copy": "Theme 2",
     "image": "../images/gallery/page-transitions.jpg"
   },
   {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
+    "title": "VR Film 3",
+    "copy": "Theme 3",
     "image": "../images/gallery/intersection-observer.jpg"
   }]
 }
