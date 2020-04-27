@@ -1,2 +1,2 @@
-<h1>Hi, my name is Crystal.</h1>
-Through the audio manipulation of local voices and instrumentals, I hope to explore our psychological state as we live with COVID-19. I have chosen the metaphor of sound manipulation, because of how unnatural manipulation can be – quite like the unnatural state our world is in now. Through this, I hope to explore themes like isolation, connection, communal instincts and more and to discover how there can be ways for various manipulated sounds to be meaningful even in such an unnatural state.
+Hi, my name is Crystal.
+Through the audio manipulation of local voices and instrumentals, I hope to explore our psychological state as we live with COVID-19. 
